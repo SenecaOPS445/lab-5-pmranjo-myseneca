@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: [seneca_id]
+# Author ID: pranjo
 
 def add(number1, number2):
     # Add two numbers together, return the result, if error return string 'error: could not add numbers'
